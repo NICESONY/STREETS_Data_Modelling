@@ -23,3 +23,8 @@ STREETS_Data라는 영상 데이터를 사용해서 교통상황에 대한 정�
 
 ![image](https://github.com/user-attachments/assets/023bc3a2-928b-4008-9f91-9418e06fee68)
 
+
+
+
+## 리눅스에 깃허브 설치 시도 중 ; https://shanepark.tistory.com/252
+
