@@ -27,4 +27,10 @@ STREETS_Data라는 영상 데이터를 사용해서 교통상황에 대한 정�
 
 
 ## 리눅스에 깃허브 설치 시도 중 ; https://shanepark.tistory.com/252
+--------
+
+
+### 다른 데이터셋 찾기
+
+### https://www.aicitychallenge.org/2024-challenge-tracks/
 
