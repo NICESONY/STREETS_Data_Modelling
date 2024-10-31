@@ -41,5 +41,39 @@
 ![image](https://github.com/user-attachments/assets/eb63f188-9074-4d2a-8ce7-f98048a5df28)
 
 
-### -----------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+
+
+
+#### 앞으로의 방향성 및 질문
+
+
+### 1. STREET DATA 사고 데이터를 훈련하는 것이 의미가 더 있는지 교통 데이터에 초점을 두는 것이 맞는지??
+### 2. 모델 최적화?? -> 모델의 파라미터를 줄이고 또는 작은 모델을 사용하여도 모델의 성능이 높은 것을 찾는것
+### 3. 차량 수를 COUNT 한다는게 STREET DATA에서도 가능한지??(검지기 설치가 가능한지?
+
+       사고 데이터 + 차량의 이동 + 클러스터링 후 지역간 연관성 분석을 통한 사고 발생시 교통 신호 체계 변화라는 과제
+----------------------------------------------------------------------------
+
+그렇다면 2가지로 task 나누어서 진행
+
+### 1.task 사고인지, 예측 모델 + 경량화
+
+### 2 - 1. task N-curve를 활용하여 구간 내 교통상태, 신호주기, 대기열 및 대기시간을 산정
+### 2 - 2. 차량 객체의 궤적(Trajectory)를 생산하여 차량 간 거리, 순간 감가속 측정 → 차간거리와 감가속 상태를 이용하여 사고 위험 지표인 TTC(Time-to-collision)을 측정
+
+### -------------------------- 사고 데이터 찾기 -------------------------------------
+
+
+## [사고데이터 관련 논문, Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems](https://arxiv.org/html/2401.03587v1)
+
+## [git.io, CADP: A Novel Dataset for CCTV Traffic Camera based Accident Analysis(https://ankitshah009.github.io/accident_forecasting_traffic_camera)
+
+
+## [CADP: A Novel Dataset for CCTV Traffic Camera based Accident Analysis](https://arxiv.org/pdf/1809.05782)
+
+## [dataset](https://drive.google.com/drive/u/0/folders/1Y1h7apbfYd7nNWuKZVPj7lov5YONC1aJ)
+
+## [github](https://github.com/ankitshah009/CarCrash_forecasting_and_detection)
+
 
