@@ -32,7 +32,9 @@ STREETS_Data라는  이미지 데이터를 사용해서 교통상황에 대한 �
 
 ### 다른 데이터셋 찾기
 
-### https://www.aicitychallenge.org/2024-challenge-tracks/
+### 1. https://www.aicitychallenge.org/2024-challenge-tracks/
+
+### 2. https://ieee-dataport.org/documents/traffic-accident-detection-video-dataset-ai-driven-computer-vision-systems-smart-city
 
 ## auto labaling
 
