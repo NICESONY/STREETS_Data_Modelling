@@ -167,7 +167,10 @@ YOLOv2에서 도입
 ##0.3 추가적으로 데이터 모델링 진행
 
 
+Train : 83,800장, Val : 56,300
 
+
+## train
 
 ![image](https://github.com/user-attachments/assets/0a83c1fe-5e95-4345-85ec-c79d98a867fa)
 
@@ -181,6 +184,8 @@ YOLOv2에서 도입
 
 바운딩 박스 손실, 객체 손실, 클래스 손실
 
+## eval
+
+![image](https://github.com/user-attachments/assets/216dc95e-7aae-4c19-88f4-6ca93af9d1ea)
 
 
-Train : 83,800장, Val : 56,300
