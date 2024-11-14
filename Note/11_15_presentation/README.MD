@@ -11,10 +11,11 @@
 ## 01.
 
 
-## 02.
+## 02. 슈퍼브 AI를 이용해서 바운딩박스 라벨딩 데이터 뽑기 성공 
 
 ![스크린샷 2024-11-15 03-04-50](https://github.com/user-attachments/assets/064972a8-1f1d-4ed4-8673-dc53feb98b92)
 
+![스크린샷 2024-11-15 03-06-42](https://github.com/user-attachments/assets/573dfdec-882d-438e-bbd2-d06a9efeea4c)
 
 
 ##0.3
